@@ -1,6 +1,6 @@
 table {
     width: 800px;
-    height: 405px;
+    height: 400px;
     border: solid 5px white;
     margin: auto;
 }
@@ -15,6 +15,6 @@ table {
 
 img {
     position: absolute;
-    height: 210px;
-    margin: 7px 29%;
+    height: 208px;
+    margin: 7px 22.12%;
 }
